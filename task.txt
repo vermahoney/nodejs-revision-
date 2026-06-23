@@ -1,0 +1,16 @@
+rest api - JSON
+
+GET /users-list all user  if / user it will render the html 
+GET/ api/users/1 -get the user with id 1
+GET/ api/users/2 -get the user with id 2 then it will give the data in th ejson form 
+
+dynaic path parameter 
+get/api/users/:id
+:id ->variable |dynamic
+
+
+POST/users -create new user 
+
+PATCH /user/id -EDIT the user with ID 1
+
+DELETE/ users /1 - delete the user with ID 1 
