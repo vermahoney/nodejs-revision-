@@ -14,3 +14,4 @@ POST/users -create new user
 PATCH /user/id -EDIT the user with ID 1
 
 DELETE/ users /1 - delete the user with ID 1 
+
